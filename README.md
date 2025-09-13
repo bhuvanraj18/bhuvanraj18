@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Programing Languages & Problem Solving**
 
-- 🌱 I’m currently learning **MERN, **Java and DSA**
+- 🌱 I’m currently learning MERN Stack, **Java and DSA**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
